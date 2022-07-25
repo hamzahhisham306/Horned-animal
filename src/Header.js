@@ -1,11 +1,11 @@
 import React from "react";
-
-
+import ColorSchemesExample from "./ColorSchemesExample";
 class Header extends React.Component{
     render(){
         return(
             <div>
-             <h1>First Project React</h1>
+            <ColorSchemesExample/>
+
             </div>
         )
     }
