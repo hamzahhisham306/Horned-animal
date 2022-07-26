@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function ColorSchemesExample() {
   return (
     <>
-      <Navbar style={{backgroundColor :'#D75281'}} variant="dark">
+      <Navbar style={{backgroundColor :'#293462'}} variant="dark">
         <Container>
           <Navbar.Brand href="#home">Navbar</Navbar.Brand>
           <Nav className="me-auto">
