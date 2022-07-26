@@ -4,7 +4,6 @@ import data from './data.json';
 import Main from './Main';
 import Footer from './Footer';
 import Header from './Header';
-
 function App() {
   const datajson=data.map((dataj)=>{
     return <Main key={dataj._id} title={dataj.title} imgurl={dataj.image_url} description={dataj.description} />;
@@ -14,11 +13,13 @@ function App() {
   return (
 
     <div className="App">
+      
       <Header/>
       <div className='ports'>
        {datajson}
        </div>
        <Footer/>
+
     </div>
     
   );
