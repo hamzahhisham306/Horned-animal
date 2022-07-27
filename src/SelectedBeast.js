@@ -9,10 +9,13 @@ class Modales extends React.Component {
     this.state={
         show:false
     }
- }
+}
+
 
    handleClose = () =>{
     this.props.handle();
+    console.log(this.props.select)
+
    }
    handleShow = () => {
     this.props.handle();
@@ -20,6 +23,7 @@ class Modales extends React.Component {
    handlerIncremint=()=>{
     this.props.handlerClick();
    }
+
 render(){
   return (
     <>

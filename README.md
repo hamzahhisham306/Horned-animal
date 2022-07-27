@@ -1,27 +1,27 @@
 # Time Estimate
 
 # 1. Feature 01:
-- Number and name of feature:  1  Display a Modal
+- Number and name of feature:  1 add form
 
 - Estimate of time needed to complete: 5 minutes
 
-- Start time: 01:00 pm  
+- Start time: 02:30 pm  
 
-- Finish time: 01:07 pm
+- Finish time: 02:37 pm
 
 - Actual time needed to complete: 7 minutes
 
 
 # 1. Feature 02:
-- Number and name of feature:  2 add moduel to every image  
+- Number and name of feature:  2 filter images
 
 - Estimate of time needed to complete: 30 minutes
 
-- Start time: 01:10 pm  
+- Start time: 02:40 pm  
 
-- Finish time: 01:45 pm
+- Finish time: 03:40 pm
 
-- Actual time needed to complete: 35 minutes
+- Actual time needed to complete: 1 hour minutes
 
 
 
@@ -30,8 +30,8 @@
 
 - Estimate of time needed to complete: 5 minutes
 
-- Start time: 01:50 pm  
+- Start time: 03:50 pm  
 
-- Finish time: 01:55 pm
+- Finish time: 03:55 pm
 
 - Actual time needed to complete: 5 minutes
