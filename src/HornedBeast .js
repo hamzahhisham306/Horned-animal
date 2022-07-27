@@ -19,10 +19,10 @@ class HornedBeast extends React.Component{
       this.setState({
         select:!this.state.select
       })
+
     }
     render(){
         return(
-    
      <Card>
       <Card.Img variant="top" src={this.props.imgurl} onClick={this.handlerBesat} className="img"/>
       <Card.Body>

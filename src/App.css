@@ -5,14 +5,14 @@
 
 }
 body{
-  background-color: #D61C4E !important;
+  background-color: #F0EBE3 !important;
 }
 h2{
-  color: #FEB139 !important;
+  color: #576F72 !important;
 }
 
 p{
-  color: #FFF80A;
+  color: #576F72;
 }
 .card{
   background-color: transparent !important;
@@ -28,7 +28,7 @@ p{
 .footer{
   text-align: center;
   padding-top: 50px;
-  color: #FFF80A;
+  color: #576F72;
 }
 
 @media (min-width:768px) {
